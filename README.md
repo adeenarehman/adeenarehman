@@ -1,8 +1,16 @@
-### Hi there!! I am Adeena Rehman. 👋
+### Hi, I'm Adeena Rehman. 👋
+
+![blog-bynder-header-2017-january-top-web-apis-bridging-todays-technology](https://github.com/adeenarehman/adeenarehman/assets/68840306/65eb9071-29ad-40f3-8d31-1d042a7d6739)
+
+
+I am a positive, enthusiastic and competent freelance Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly. I have 2 years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components.
+
+I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+
+Delivering work within time and budget which meets the client’s requirements is my motto.
+
 
 <!--
-**adeenarehman/adeenarehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working with React JS 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
