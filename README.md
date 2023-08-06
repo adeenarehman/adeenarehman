@@ -1,5 +1,5 @@
 ### Hi, I'm Adeena Rehman. 👋
-![Brown Modern Graphic Designer LinkedIn Banner (1)](https://github.com/adeenarehman/adeenarehman/assets/68840306/49e9d82a-6979-4f9e-a303-6d4ae4ef575f)
+![Brown Modern Graphic Designer LinkedIn Banner (2)](https://github.com/adeenarehman/adeenarehman/assets/68840306/f7f83820-0244-4448-a437-f5f9e5486e40)
 
 I am a positive, enthusiastic and competent freelance Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly. I have 2 years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components.
 
