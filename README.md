@@ -1,7 +1,5 @@
 ### Hi, I'm Adeena Rehman. 👋
-
-![blog-bynder-header-2017-january-top-web-apis-bridging-todays-technology](https://github.com/adeenarehman/adeenarehman/assets/68840306/65eb9071-29ad-40f3-8d31-1d042a7d6739)
-
+![Brown Modern Graphic Designer LinkedIn Banner](https://github.com/adeenarehman/adeenarehman/assets/68840306/095ba9a6-a44f-4623-9358-be3c9c0add2c)
 
 I am a positive, enthusiastic and competent freelance Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly. I have 2 years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components.
 
