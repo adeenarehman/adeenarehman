@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there!! I am Adeena Rehman. 👋
 
 <!--
 **adeenarehman/adeenarehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am a positive, enthusiastic and competent freelance Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly. I have 2 years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components.
 
+I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+
+Delivering work within time and budget which meets the client’s requirements is my motto.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
